@@ -1,68 +1,70 @@
-# 🚀 Malik Hamza Nawaz – Machine Learning Engineer
+<h1 align="center">🚀 Malik Hamza Nawaz</h1>
+<p align="center">
+  <b>Machine Learning Engineer | AI & Cloud Enthusiast</b>  
+</p>
 
-📍 Islamabad, Pakistan | 📞 +92-3129591213 | 📧 hamza.nawaz2021@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/hamza0103) | 🐙 [GitHub](https://github.com/yourusername)  
+<p align="center">
+  📍 Islamabad, Pakistan • 📞 +92-3129591213 • 📧 hamza.nawaz2021@gmail.com  
+</p>
 
----
-
-## 👨‍💻 About Me  
-Machine Learning Engineer with **2+ years of experience** in deploying ML models, MLOps, and cloud solutions (**GCP, AWS**). Specialized in **LLM-based solutions** for the insurance industry, optimizing claim processing workflows and **improving accuracy**. Proven ability to deliver **real-world AI applications** in team environments.
-
----
-
-## 💼 Work Experience  
-
-### **Sigma Square AI, Islamabad, PK**  
-**Machine Learning Engineer** *(Jan 2023 – Present)*  
-- **Developed an end-to-end insurance claim processing pipeline** on **Google Cloud Platform (GCP)** using **Mistral LLMs**, improving **model accuracy from 78% to 86%**.  
-- **Enhanced insurance claim prediction model accuracy from 70% to 80%+**, optimizing claim-processing workflows.  
-- **Deployed ML models on AWS**, streamlining automation and cloud-based inference.  
-
-### **Sigma Square AI, Islamabad, PK**  
-**Machine Learning Intern** *(Sep 2022 – Dec 2022)*  
-- Built an **ETL pipeline for integrating Yelp data** into an **insurance claim paid loss model**, improving predictive accuracy.  
-- Developed an **OCR-based document verification system** for passport information extraction.  
+<p align="center">
+  <a href="https://linkedin.com/in/hamza0103"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>  
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>  
+</p>
 
 ---
 
-## 📂 Projects  
+## 🌟 About Me  
+Hey there! I'm **Hamza**, a **Machine Learning Engineer** with a passion for **LLMs, NLP, MLOps, and Cloud AI**.  
+I love building **AI-powered applications**, deploying scalable ML models, and optimizing real-world workflows.  
 
-### 🔹 **Insurance Claim Prediction (GCP)**
-- Built a **scalable insurance claim processing pipeline** using **Mistral LLMs** on **GCP**.  
-- **Increased model accuracy from 78% to 86%**, improving workflow efficiency for insurers.  
+💡 **Fun Fact:** I once improved an **insurance claim processing model's accuracy from 78% to 86%!**  
 
-### 🔹 **Instagram Post Reach Prediction**
-- Developed an **ML model to predict Instagram post reach** based on image features.  
-- Deployed on **AWS**, providing insights for social media influencers.  
-
-### 🔹 **News Recommendation System**
-- Built a **content recommendation system** using ML algorithms to **personalize news** for users.  
-- Enhanced user engagement and content relevance.  
-
-### 🔹 **OCR-based Document Verification**
-- Designed an **OCR pipeline** for **automated passport information extraction**.  
-- Improved data processing accuracy in document verification tasks.  
+🎯 **What I Do:**  
+✅ Build **LLM-based AI solutions** 🚀  
+✅ Deploy ML models on **GCP & AWS** ☁️  
+✅ Automate workflows with **MLOps & DevOps** 🔧  
+✅ Work on **computer vision & NLP** 🧠  
 
 ---
 
-## 🎓 Education  
-🎓 **University of Engineering and Technology Mardan, Pakistan**  
-**BSc in Computer Software Engineering** *(Aug 2022)*  
-📌 **GPA:** 2.85/4.0  
+## 🏆 My Projects  
+
+### 🔹 [Insurance Claim Prediction (GCP)](#)  
+📌 **Tech Stack:** Mistral LLM, Python, Google Cloud, LangChain  
+✅ Built a **scalable AI pipeline** for **insurance claim processing**  
+✅ **Boosted model accuracy from 78% → 86%**  
+
+### 🔹 [Instagram Post Reach Prediction](#)  
+📌 **Tech Stack:** AWS, ML, Image Processing  
+✅ Developed an **ML model to predict post reach**  
+✅ Helps influencers **optimize content** for engagement  
+
+### 🔹 [News Recommendation System](#)  
+📌 **Tech Stack:** NLP, Recommender Systems  
+✅ Built a **content recommendation engine**  
+✅ Enhanced **user engagement** with personalized news  
+
+### 🔹 [OCR-based Document Verification](#)  
+📌 **Tech Stack:** OCR, Python, OpenCV  
+✅ Designed an **OCR system for passport verification**  
+✅ Extracts & verifies **key document details**  
 
 ---
 
-## 🔧 Technical Skills  
+## 🚀 Skills & Tech Stack  
+### 📌 **Machine Learning & AI**  
+🔥 LLMs (Mistral, OpenAI) | TensorFlow | PyTorch | NLP | Computer Vision  
 
-**Programming:** Python, C, C++, HTML, CSS  
-**Machine Learning & AI:** MLOps, TensorFlow, PyTorch, LLMS, NLP, Transformers, HuggingFace, Computer Vision  
-**Cloud & DevOps:** AWS, GCP, CI/CD, Cloud Deployment, Docker  
-**Data Science & Analytics:** ETL, A/B Testing, Hypothesis Testing, Data Wrangling, Visualization, Statistics  
-**Tools & Technologies:** Git, APIs, Airflow, Excel, Vector Databases  
+### ☁️ **Cloud & DevOps**  
+🔥 **Google Cloud (GCP)** | **AWS** | **CI/CD** | **Docker** | **Airflow**  
+
+### 💻 **Programming & Tools**  
+🔥 Python | C++ | APIs | Git | Data Wrangling | Hugging Face | Vector DBs  
 
 ---
 
-## 📬 Contact Me  
+## 📬 Let's Connect!  
 📧 **Email:** hamza.nawaz2021@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/hamza0103](https://linkedin.com/in/hamza0103)  
 🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
