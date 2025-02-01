@@ -1,4 +1,3 @@
-# 👋 Welcome to My Portfolio
 
 **Malik Hamza Nawaz**  
 *Machine Learning Engineer*  
@@ -43,6 +42,7 @@ Cumulative GPA: **2.85/4.0**
 
 ### **Programming Languages**
 - Python
+- R
 - C
 - C++
 - HTML
@@ -64,7 +64,9 @@ Cumulative GPA: **2.85/4.0**
 - CI/CD Pipelines
 - Docker & Cloud Deployment
 
----
+### **DataBases**
+- Postgres
+- MYSQL
 
 ## 🚀 Projects
 
