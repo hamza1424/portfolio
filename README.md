@@ -1,73 +1,92 @@
-<h1 align="center">🚀 Malik Hamza Nawaz</h1>
-<p align="center">
-  <b>Machine Learning Engineer | AI & Cloud Enthusiast</b>  
-</p>
+# 👋 Welcome to My Portfolio
 
-<p align="center">
-  📍 Islamabad, Pakistan • 📞 +92-3129591213 • 📧 hamza.nawaz2021@gmail.com  
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/hamza0103"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"></a>  
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>  
-</p>
+**Malik Hamza Nawaz**  
+*Machine Learning Engineer*  
+📍 Islamabad, Pakistan  
+📞 +92-3129591213  
+📧 [hamza.nawaz2021@gmail.com](mailto:hamza.nawaz2021@gmail.com)  
+🔗 [LinkedIn Profile](https://linkedin.com/in/hamza0103)
 
 ---
 
-## 🌟 About Me  
-Hey there! I'm **Hamza**, a **Machine Learning Engineer** with a passion for **LLMs, NLP, MLOps, and Cloud AI**.  
-I love building **AI-powered applications**, deploying scalable ML models, and optimizing real-world workflows.  
+## 🌟 About Me
 
-💡 **Fun Fact:** I once improved an **insurance claim processing model's accuracy from 78% to 86%!**  
-
-🎯 **What I Do:**  
-✅ Build **LLM-based AI solutions** 🚀  
-✅ Deploy ML models on **GCP & AWS** ☁️  
-✅ Automate workflows with **MLOps & DevOps** 🔧  
-✅ Work on **computer vision & NLP** 🧠  
+I'm a passionate **Machine Learning Engineer** with over **2 years of experience** in deploying ML models, MLOps, and cloud solutions (GCP, AWS). My expertise lies in developing **LLM-based solutions** for the insurance industry, where I focus on optimizing claim processing workflows and enhancing accuracy. I thrive in collaborative environments and enjoy delivering impactful real-world applications.
 
 ---
 
-## 🏆 My Projects  
+## 💼 Work Experience
 
-### 🔹 [Insurance Claim Prediction (GCP)](#)  
-📌 **Tech Stack:** Mistral LLM, Python, Google Cloud, LangChain  
-✅ Built a **scalable AI pipeline** for **insurance claim processing**  
-✅ **Boosted model accuracy from 78% → 86%**  
+### **Sigma Square AI** – Islamabad, Pakistan  
+*Machine Learning Engineer (Jan 2023 – Present)*  
+- 🛠️ Designed and deployed an end-to-end insurance claim processing pipeline on **Google Cloud Platform (GCP)** using open-source Mistral LLMs. Improved model accuracy from **78% to 86%**.
+- 📈 Enhanced an insurance claim prediction model's accuracy from **70% to over 80%**, benefiting clients by streamlining claim workflows.
+- 📊 Developed an **Instagram Post Reach Predictor**, analyzing image features and successfully deploying it on **AWS**.
+- 📰 Created a **News Recommendation App**, leveraging ML algorithms to personalize content for users, increasing engagement.
 
-### 🔹 [Instagram Post Reach Prediction](#)  
-📌 **Tech Stack:** AWS, ML, Image Processing  
-✅ Developed an **ML model to predict post reach**  
-✅ Helps influencers **optimize content** for engagement  
-
-### 🔹 [News Recommendation System](#)  
-📌 **Tech Stack:** NLP, Recommender Systems  
-✅ Built a **content recommendation engine**  
-✅ Enhanced **user engagement** with personalized news  
-
-### 🔹 [OCR-based Document Verification](#)  
-📌 **Tech Stack:** OCR, Python, OpenCV  
-✅ Designed an **OCR system for passport verification**  
-✅ Extracts & verifies **key document details**  
+### **Sigma Square** – Islamabad, Pakistan  
+*Machine Learning Intern (Sep 2022 – Dec 2022)*  
+- 🔗 Built an ETL pipeline to integrate Yelp data into an insurance claim paid loss model, improving predictive accuracy.
+- 📄 Implemented an OCR-based document verification system for efficient passport information extraction.
 
 ---
 
-## 🚀 Skills & Tech Stack  
-### 📌 **Machine Learning & AI**  
-🔥 LLMs (Mistral, OpenAI) | TensorFlow | PyTorch | NLP | Computer Vision  
+## 🎓 Education
 
-### ☁️ **Cloud & DevOps**  
-🔥 **Google Cloud (GCP)** | **AWS** | **CI/CD** | **Docker** | **Airflow**  
-
-### 💻 **Programming & Tools**  
-🔥 Python | C++ | APIs | Git | Data Wrangling | Hugging Face | Vector DBs  
+**University of Engineering and Technology Mardan** – Mardan, KPK Pakistan  
+*Bachelor of Science in Computer Software Engineering (August 2022)*  
+Cumulative GPA: **2.85/4.0**
 
 ---
 
-## 📬 Let's Connect!  
-📧 **Email:** hamza.nawaz2021@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/hamza0103](https://linkedin.com/in/hamza0103)  
-🐙 **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+## 🛠️ Skills
+
+### **Programming Languages**
+- Python
+- C
+- C++
+- HTML
+- CSS
+
+### **Machine Learning**
+- Frameworks: TensorFlow, PyTorch, scikit-learn
+- Tools: Airflow, HuggingFace, Transformers
+- Specializations: NLP, Computer Vision, LLMs, Vector Databases
+
+### **Data Science**
+- A/B Testing
+- ETL Pipelines
+- Data Wrangling & Visualization
+- Hypothesis Testing & Statistics
+
+### **DevOps**
+- Cloud Platforms: AWS, GCP
+- CI/CD Pipelines
+- Docker & Cloud Deployment
 
 ---
 
+## 🚀 Projects
+
+### 1. **Insurance Claim Processing Pipeline**
+   - 🌐 Built a scalable pipeline on GCP using Mistral LLMs for insurance document data extraction.
+   - 📈 Improved injury code prediction accuracy from 78% to 86%.
+
+### 2. **Instagram Post Reach Predictor**
+   - 📊 Developed and deployed a model to predict Instagram post reach based on image features.
+   - ☁️ Hosted the application on AWS.
+
+### 3. **News Recommendation App**
+   - 📰 Created a personalized news recommendation system using machine learning algorithms.
+   - 📈 Increased user engagement and satisfaction.
+
+---
+
+## 🤝 Contact Me
+
+Feel free to reach out for collaboration or inquiries regarding machine learning projects!  
+📧 [hamza.nawaz2021@gmail.com](mailto:hamza.nawaz2021@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/hamza0103)
+
+---
+
+Thank you for visiting my portfolio! 🌟
